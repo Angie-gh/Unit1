@@ -1,6 +1,9 @@
-# Fundamentals of Programming in Pyhon
+# Fundamentals of Programming in Python
 [Return to Home](https://angie-gh.github.io/adix.github.io/)
+
+
 *********************************************************************************** 
+
 
 Purpose of this page:
 
