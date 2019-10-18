@@ -11,7 +11,8 @@ We have completed half of a semester in Python Programming and are reflecting on
 ### Overall reaction to Python computing:
 I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment has a faster learning curve and allows the coder to be a minimalist.    
 
-### Ah-ha moments (tricks for those who have coded in other languages):
+### Ah-ha moments:
+***(Notables for those who have scripted in other languages)***
 - #### The colon is your friend
 - #### Semi-colons at the end of sentences are overrated
 - #### Indents are sensitive
