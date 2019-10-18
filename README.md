@@ -12,18 +12,19 @@ We have completed half of a semester in Python Programming and are reflecting on
 I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment has a faster learning curve and allows the coder to be a minimalist.    
 
 ### Ah-ha moments:
-**Scripting languages use different techniques.  Below are some highlights of useful Python features:**
+**Scripting languages use different techniques.  Below are some of my observed Python features (differences):**
 - #### The colon is your friend
 	With any kind of loop declaration or function definition, a colon (:) is needed to indicate that some decision making logic is about to follow.  As a python coder, if in doubt, remember you need to add a colon.  When the py source code is compiled, the runtime complier will let you know if the colon makes sense.
 - #### Semi-colons at the end of sentences are overrated
 	If you have ever coded in C#, you will be thrilled to know that in Python scripting, a semi-colon is not used at the end of a line.  It is like having Christmas all year long.  No need to search for missing semi-colons in your code.
 - #### Indents are sensitive
-	***Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.***
+	*Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.*
+	Although the single spaces can seem petty, visually it makes the code dependably easy to read.
 - #### Numeric commas can't be taken for granted
-	Handling commas in number values
+	In many languages, the coder can often take for granted that the comma (,) in numeric values will automatically be displayed.  In Python, an additional formating command "format(numeric_value,",d") needs to be included:
 	<br/>print (format(42500, ",d"))
 - #### "While True" is a nice automatic loop
-	Simple way to stay in a loop until validation passes)
+	When needing to generate a quick errorhandling loop, it is nice and simple to use a "While True" loop and then only exit by performing a "break" statement. 
 - #### Built-In modules are timesavers
 	max(mylist, key=len)
 - #### Quickly changing lists into strings and vice versa
