@@ -67,22 +67,22 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>
 
 ### How my programs differ from other coders:
-	**Part A:**
-	<br/>I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic. 
-	<br/>**Example of Commenting:**
-	<br/>![Sample comments](GoodCommenting_Example.PNG)
-	<br/>**Part B:**
-	<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make the experience user-friendly. 
-	<br/>**Example Code: A Password Locker tool that utilizes both a menu and a continue prompt:**
-	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
+**Part A:**
+<br/>I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic. 
+<br/>**Example of Commenting:**
+<br/>![Sample comments](GoodCommenting_Example.PNG)
+<br/>**Part B:**
+<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make the experience user-friendly. 
+<br/>**Example Code: A Password Locker tool that utilizes both a menu and a continue prompt:**
+<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
 ### The program that I am the most proud of:
-	I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive code easier to follow.
-	<br/>**Example Code: A encryption and decryption tool that is efficient in its use of logic:**
-	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
+I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive code easier to follow.
+<br/>**Example Code: A encryption and decryption tool that is efficient in its use of logic:**
+<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 
 ### Are these programs a reflection of my abilities?:
-	I take pride in the programs that I've written thus far.  
+I take pride in the programs that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Once I learn more techniques, I will be able to provide solutions that are far more complex than what we have currently tackled. :)  
 
 ### Sample Programs
 - [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week03_password_generatorAngie.py)
