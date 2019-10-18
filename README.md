@@ -73,8 +73,10 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>Example of Commenting:
 	<br/>![Sample comments](GoodCommenting_Example.PNG)
 	<br/>GoodCommenting_Example.PNG
+	<br/>
+	<br/>I also try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make they experience user friendly. 
 ### Are these programs a reflection of my abilities?
-	I have pride in the Python applications that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Although these are well-planned solutions, they are not an indication of what I'm capable of.  I'm capable of much more :)
+	I take pride in the programs that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Once I learn more techniques, I will be able to provide solutions to far more complicated problems :)
 ### Sample Programs
 - [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week03_password_generatorAngie.py)
 - [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
