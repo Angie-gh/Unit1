@@ -12,7 +12,7 @@ We have completed half of a semester in Python Programming and are reflecting on
 I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment allows for a faster learning curve and minimal lines of code.    
 
 ### Ah-ha moments:
-**Scripting languages use different techniques.  Below are some of my observed Python features (differences):**
+**Below are some of my observations:**
 - #### The colon is your friend
 	With any kind of loop declaration or function definition, a colon (:) is needed to indicate that some decision making logic is about to follow.  As a python coder, remember you need to add a colon for these scenarios.  Note:  When the py source code is compiled, the runtime complier will let you know if an expected colon is missing.
 - #### Semi-colons at the end of sentences are overrated
@@ -37,18 +37,23 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 - #### Quickly changing lists into strings and vice versa
 	One of the biggest timesavers so far has been learning how to quickly translate a list into a string and vice versa.
 	<br/>Examples:
-	<br/>"".join(x)    turns a list "x" into a string
-	<br/>x.split    turns a string "x" into a list
+	<br/>"".join(x)   turns a list "x" into a string
+	<br/>list(x)      turns a string "x" into a list
+	<br/>x.split      turns a string "x" into a list
 	<br/>Screenshot example:
 	<br/>![lists to strings](quick_listsFromStrings.PNG)
 ### Useful modules to import into code:
 - #### random
-	For ability to randomly generate 1 or 0, which can be a yes/no 
-	Randomly generate...
+	The "random" module allows the coder to generate random output with a single line of code.  
+	<br/>Example Code: A game that users the random module:
+	<br/>[Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
 - #### getpass
 	The "getpass" module is a super valuable module for quickly blocking the display of a user's keystrokes when they are inputting sensitive information like a password.  
+	<br/>Example Code: A password encryption tool that uses the getpass module:
+	<br/>[Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
 - #### pyperclip
-	This is so far my favorite feature.  The ability to pass output to the user's clipboard provides a level of security. If a third party is shoulder surfing the user of a python program, they won't have privy to what is being returned to the user.  Ideally, if they user pastes their output into a protected input text field, the output will either be hidden or indicated with asterisks.
+	This is one of my favorite modules.  The pyperclip module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
+into a protected input text field, so that the text would never be visible, or minimally hidden with asterisks.
 - #### sys
 	We always need a way to exit a program.  The sys module offers the sys.exit command.
 - #### time
