@@ -24,7 +24,7 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 	In many languages, the coder can often take for granted that the comma (,) in numeric values will automatically be displayed.  In Python, an additional formating command format(numeric_value,",d") needs to be included:
 	<br/>Example:
 	<br/>print (format(42500, ",d"))
-	![format(numeric_value,",d")](FormatNumericWithCommas.png)
+	![format numeric value](FormatNumericWithCommas.png)
 - #### "While True" is a nice automatic loop
 	When needing to generate a quick error-handling loop, it is nice and simple to use a "While True" loop and then only exit by performing a "break" statement. 
 - #### Built-In modules are timesavers
@@ -52,9 +52,8 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 ### Are these programs a reflection of my abilities?
 	I have pride in the Python applications that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Although these are well-planned solutions, they are not an indication of what I'm capable of.  I'm capable of much more :)
 ### Sample Programs
-- [Trees in Sacramento](https://github.com/Angie-gh/unit1/blob/master/week02_Trees_Angie.py)
-- [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week02_Trees_Angie.py)
-- [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/)
-- [Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/)
-- [Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/)
+- [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week03_password_generatorAngie.py)
+- [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
+- [Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
+- [Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
