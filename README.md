@@ -5,13 +5,13 @@
 *********************************************************************************** 
 
 
-#### Purpose of this page:
+### Purpose of this page:
 We have completed half of a semester in Python Programming and are reflecting on the scripting basics that we have just learned.  The below comments are specific to me.
 
-#### Overall reaction to Python computing:
+### Overall reaction to Python computing:
 I find python to be an incredibly forgiving scripting language. I have scripted in many formats such as, batch, bash, lotuscript, and javascript(ajax), but the python environment trumps all in allowing the coder to be a minimalist.    
 
-#### Ah-ha moments (tricks for those who have coded in other languages):
+### Ah-ha moments (tricks for those who have coded in other languages):
 - #### The colon is your friend
 - #### Semi-colons at the end of sentences are overrated
 - #### Indents are sensitive
@@ -27,7 +27,7 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 	The expression "".join(x)    Allows one to quickly turn a list "x" into a string
 	The expression x.split    Allows one to quickly turn a string "x" into a list
 
-#### Useful modules to import into code:
+### Useful modules to import into code:
 - #### random
 	For ability to randomly generate 1 or 0, which can be a yes/no 
 	Randomly generate...
@@ -39,11 +39,11 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 
 - #### time
 
-#### How my programs differ from other coders:
+### How my programs differ from other coders:
 
-#### Are these programs a reflection of my abilities?
+### Are these programs a reflection of my abilities?
 
-#### Sample Programs
+### Sample Programs
 
 
 
