@@ -11,7 +11,7 @@ We have completed half of a semester in Python Programming and are reflecting on
 ### Overall reaction to Python computing:
 I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment allows for a faster learning curve and minimal lines of code.    
 
-### Ah-ha moments:
+### Ah-ha Moments:
 **Below are some of my observations:**
 - #### The colon is your friend
 	With any kind of loop declaration or function definition, a colon (:) is needed to indicate that some decision making logic is about to follow.  As a python coder, remember you need to add a colon for these scenarios.  Note:  When the py source code is compiled, the runtime complier will let you know if an expected colon is missing.
