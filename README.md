@@ -73,7 +73,7 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>**Part B:**
 	<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make they experience user-friendly. 
 ### What program so far am I most proud of?
-	I am most proud of solutions that use minimal lines of code but are able to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive "looping" code easier to follow.
+	I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive code easier to follow.
 	<br/>**Example Code: A encryption and decryption tool that is efficient in its use of logic:**
 	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 
@@ -84,5 +84,5 @@ into a protected input text field, so that the text would never be visible, or m
 - [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
 - [Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 - [Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
-
-
+<br/>
+### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
