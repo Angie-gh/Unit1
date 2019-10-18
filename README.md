@@ -1,16 +1,17 @@
-# Unit 1 - Reflections:<br/>Programming in Python
+# Unit 1 - Reflections: Programming in Python
 [Return to Home](https://angie-gh.github.io/adix.github.io/)
 
 
 *********************************************************************************** 
 
 
-Purpose of this page:
+## Purpose of this page:
 
 ## Overall reaction to Python computing:
 
-## Ah-ha moments (tricks for those who have coded in other languages):
-- The colon is your friend
+## Ah-ha moments: 
+<br/> * **(Notables for those who have scripted in other languages)** *
+- #### The colon is your friend
 - Semi-colons at the end of sentences are overrated
 - Indents are sensitive
 	<br/>Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.
