@@ -59,7 +59,7 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>Screenshot example 1 - outputing content from program to clipboard:
 	<br/>![PyperclipCopy](PyperclipCopyExample.PNG)
 	<br/>Screenshot example 2 - retrieving input for program from clipbard:
-	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInputG)	
+	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInput.PNG)	
 	<br/>Example Code: A Password Locker tool that utilizes the pyperclip module:
 	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 - #### sys
