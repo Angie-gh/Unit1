@@ -44,6 +44,7 @@ I find Python to be an incredibly forgiving scripting language. I have scripted 
 	<br/>![lists to strings](quick_listsFromStrings.PNG)
 	<br/>**Screenshot example 2:**
 	<br/>![lists to strings](SimpleClearLogic_CreatingEncryptionKey.PNG)
+
 ### Useful modules to import into code:
 - #### random module
 	The "random" module allows the coder to generate random output with a single line of code.  
@@ -60,11 +61,11 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>![PyperclipCopy](PyperclipCopyExample.PNG)
 	<br/>**Screenshot example 2 - retrieving input for program from clipbard:**
 	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInput.PNG)	
-	<br/>**Example Code: A Password Locker tool that utilizes the pyperclip module:**
-	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
+	
 - #### time module
 	The concept of pausing is extremely important, especially when a python program is running from the command line.  The "time" module allows the coder to pause (sleep) for a specified amount of seconds. This allows a program to show the results for a specified amount of time before the screen disappears.  It adds to a level of security because the program doesn't have to wait for the user to provide any input before shutting down.
 	<br/>
+
 ### How my programs differ from other coders:
 	**Part A:**
 	<br/>I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic. 
@@ -72,16 +73,17 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>![Sample comments](GoodCommenting_Example.PNG)
 	<br/>**Part B:**
 	<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make the experience user-friendly. 
-### What program so far am I most proud of?
+	<br/>**Example Code: A Password Locker tool that utilizes both a menu and a continue prompt:**
+	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
+
+### The program that I am the most proud of:
 	I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive code easier to follow.
 	<br/>**Example Code: A encryption and decryption tool that is efficient in its use of logic:**
 	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 
-### Are these programs a reflection of my abilities?
-	I take pride in the programs that I've written thus far.  Based on what we've learned in this first half of the semester, 
-	I've implemented solutions using the most efficient Python tools.  Once I learn more techniques, I will be able to provide
-	solutions that are far more complex than what we have currently tackled. :)
-	
+### Are these programs a reflection of my abilities?:
+	I take pride in the programs that I've written thus far.  
+
 ### Sample Programs
 - [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week03_password_generatorAngie.py)
 - [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
