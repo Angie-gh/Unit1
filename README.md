@@ -1,5 +1,5 @@
 # Unit 1 - Reflections: Programming in Python
-### [Return to Home](https://angie-gh.github.io/adix.github.io/)
+### [Angie Home Page](https://angie-gh.github.io/adix.github.io/)
 
 
 *********************************************************************************** 
@@ -50,14 +50,18 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 - #### getpass
 	The "getpass" module is a super valuable module for quickly blocking the display of a user's keystrokes when they are inputting sensitive information like a password.  
 	<br/>Example Code: A password encryption tool that uses the getpass module:
-	<br/>[Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
+	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 - #### pyperclip
-	This is one of my favorite modules.  The pyperclip module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
+	This is one of my favorite modules.  The "pyperclip" module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
 into a protected input text field, so that the text would never be visible, or minimally hidden with asterisks.
+	<br/>Example Code: A Password Locker tool that utilizes the pyperclip module:
+	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 - #### sys
 	We always need a way to exit a program.  The sys module offers the sys.exit command.
 - #### time
 	The concept of pausing is extremely important, especially when a python program is running from the command line.  The "time" module allows the coder to pause (sleep) for a specified amount of seconds. This allows a program to show the results for a specified amount of time before the screen disappears.  It adds to a level of security because the program doesn't have to wait for the user to provide any input before shutting down.
+	<br/>Example Code: A Password Locker tool that utilizes the pyperclip module:
+	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 ### How my programs differ from other coders:
 	I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic.   
 ### Are these programs a reflection of my abilities?
@@ -68,4 +72,4 @@ into a protected input text field, so that the text would never be visible, or m
 - [Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 - [Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
-### [Return to Home](https://angie-gh.github.io/adix.github.io/)
+
