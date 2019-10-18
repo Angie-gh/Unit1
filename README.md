@@ -1,4 +1,4 @@
-# Fundamentals of Programming in Python
+# Unit 1 - Reflections on Programming in Python
 [Return to Home](https://angie-gh.github.io/adix.github.io/)
 
 
@@ -7,9 +7,9 @@
 
 Purpose of this page:
 
-Overall reaction to Python computing:
+##Overall reaction to Python computing:
 
-Ah-ha moments (tricks for those who have coded in other languages):
+##Ah-ha moments (tricks for those who have coded in other languages):
 - The colon is your friend
 - Semi-colons at the end of sentences are overrated
 - Indents are sensitive
@@ -25,7 +25,7 @@ Ah-ha moments (tricks for those who have coded in other languages):
 	\The expression "".join(x)    Allows one to quickly turn a list "x" into a string
 	\The expression x.split    Allows one to quickly turn a string "x" into a list
 
-Useful modules to import into code:
+##Useful modules to import into code:
 - random
 	\For ability to randomly generate 1 or 0, which can be a yes/no 
 	\Randomly generate...
@@ -35,11 +35,11 @@ Useful modules to import into code:
 - sys
 - time
 
-How my programs differ from other coders:
+##How my programs differ from other coders:
 
-Are these programs a reflection of my abilities?
+##Are these programs a reflection of my abilities?
 
-
+## Sample Programs
 
 
 
