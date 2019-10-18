@@ -12,6 +12,8 @@ Overall reaction to Python computing:
 Ah-ha moments (tricks for those who have coded in other languages):
 - The colon is your friend
 - Semi-colons at the end of sentences are overrated
+- Indents are sensitive
+	<br/>Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.
 - Numeric commas can't be taken for granted
 	<br/>Handling commas in number values
 	<br/>print (format(42500, ",d"))
