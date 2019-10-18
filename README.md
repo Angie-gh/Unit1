@@ -45,15 +45,15 @@ I find Python to be an incredibly forgiving scripting language. I have scripted 
 	<br/>**Screenshot example 2:**
 	<br/>![lists to strings](SimpleClearLogic_CreatingEncryptionKey.PNG)
 ### Useful modules to import into code:
-- #### random
+- #### random module
 	The "random" module allows the coder to generate random output with a single line of code.  
 	<br/>**Example Code: A game that users the random module:**
 	<br/>[Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
-- #### getpass
+- #### getpass module
 	The "getpass" module is a super valuable module for quickly blocking the display of a user's keystrokes when they are inputting sensitive information like a password.  
 	<br/>**Example Code: A password encryption tool that uses the getpass module:**
 	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
-- #### pyperclip
+- #### pyperclip module
 	This is one of my favorite modules.  The "pyperclip" module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
 into a protected input text field, so that the text would never be visible, or minimally hidden with asterisks.
 	<br/>**Screenshot example 1 - outputing content from program to clipboard:**
@@ -62,7 +62,7 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInput.PNG)	
 	<br/>**Example Code: A Password Locker tool that utilizes the pyperclip module:**
 	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
-- #### time
+- #### time module
 	The concept of pausing is extremely important, especially when a python program is running from the command line.  The "time" module allows the coder to pause (sleep) for a specified amount of seconds. This allows a program to show the results for a specified amount of time before the screen disappears.  It adds to a level of security because the program doesn't have to wait for the user to provide any input before shutting down.
 	<br/>
 ### How my programs differ from other coders:
