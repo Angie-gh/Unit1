@@ -24,7 +24,7 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 	In many languages, the coder can often take for granted that the comma (,) in numeric values will automatically be displayed.  In Python, an additional formating command format(numeric_value,",d") needs to be included:
 	<br/>Example:
 	<br/>print (format(42500, ",d"))
-	<br/>![format numeric value](unit1/FormatNumericWithCommas.PNG)
+	<br/>![Formatting a numeric value](FormatNumericWithCommas.PNG)
 - #### "While True" is a nice automatic loop
 	When needing to generate a quick error-handling loop, it is nice and simple to use a "While True" loop and then only exit by performing a "break" statement. 
 - #### Built-In modules are timesavers
