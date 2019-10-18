@@ -1,5 +1,5 @@
 # Unit 1 - Reflections: Programming in Python
-[Return to Home](https://angie-gh.github.io/adix.github.io/)
+### [Return to Home](https://angie-gh.github.io/adix.github.io/)
 
 
 *********************************************************************************** 
@@ -68,3 +68,4 @@ into a protected input text field, so that the text would never be visible, or m
 - [Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 - [Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
+### [Return to Home](https://angie-gh.github.io/adix.github.io/)
