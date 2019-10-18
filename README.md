@@ -40,8 +40,10 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 	<br/>"".join(x)   turns a list "x" into a string
 	<br/>list(x)      turns a string "x" into a list
 	<br/>x.split      turns a string "x" into a list
-	<br/>Screenshot example:
+	<br/>Screenshot example 1:
 	<br/>![lists to strings](quick_listsFromStrings.PNG)
+	<br/>Screenshot example 2:
+	<br/>![lists to strings](SimpleClearLogic_CreatingEncryptionKey.PNG)
 ### Useful modules to import into code:
 - #### random
 	The "random" module allows the coder to generate random output with a single line of code.  
@@ -54,6 +56,10 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 - #### pyperclip
 	This is one of my favorite modules.  The "pyperclip" module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
 into a protected input text field, so that the text would never be visible, or minimally hidden with asterisks.
+	<br/>Screenshot example 1 - outputing content from program to clipboard:
+	<br/>![PyperclipCopy](PyperclipCopyExample.PNG)
+	<br/>Screenshot example 2 - retrieving input for program from clipbard:
+	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInputG)	
 	<br/>Example Code: A Password Locker tool that utilizes the pyperclip module:
 	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 - #### sys
@@ -63,7 +69,10 @@ into a protected input text field, so that the text would never be visible, or m
 	<br/>Example Code: A Password Locker tool that utilizes the pyperclip module:
 	<br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 ### How my programs differ from other coders:
-	I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic.   
+	I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic. 
+	<br/>Example of Commenting:
+	<br/>![Sample comments](GoodCommenting_Example.PNG)
+	<br/>GoodCommenting_Example.PNG
 ### Are these programs a reflection of my abilities?
 	I have pride in the Python applications that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Although these are well-planned solutions, they are not an indication of what I'm capable of.  I'm capable of much more :)
 ### Sample Programs
