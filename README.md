@@ -14,7 +14,7 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 ### Ah-ha moments:
 **Scripting languages use different techniques.  Below are some highlights of useful Python features:**
 - #### The colon is your friend
-	With any kind of loop or function definition, a colon (:) is needed to indicate that some decision making logic is going to be expressed.  If in doubt, add a colon.  When the py source code is compiled, the runtime complier will let you know if the colon makes sense.
+	With any kind of loop or function definition, a colon (:) is needed to indicate that some decision making logic is about to follow.  As a python coder, if in doubt, remember you need to add a colon.  When the py source code is compiled, the runtime complier will let you know if the colon makes sense.
 - #### Semi-colons at the end of sentences are overrated
 - #### Indents are sensitive
 	***Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.***
