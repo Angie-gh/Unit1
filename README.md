@@ -16,6 +16,7 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 - #### The colon is your friend
 	With any kind of loop or function definition, a colon (:) is needed to indicate that some decision making logic is about to follow.  As a python coder, if in doubt, remember you need to add a colon.  When the py source code is compiled, the runtime complier will let you know if the colon makes sense.
 - #### Semi-colons at the end of sentences are overrated
+	If you have ever coded in C#, you will be thrilled to know that in Python scripting, a semi-colon is not used at the end of a line.  It is like having Christmas all year long.  No need to search for missing semi-colons in your code.
 - #### Indents are sensitive
 	***Don't panic when you get a compile error.  50% of the time it is an extra space after an indentation.***
 - #### Numeric commas can't be taken for granted
