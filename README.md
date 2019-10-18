@@ -9,7 +9,7 @@
 We have completed half of a semester in Python Programming and are reflecting on the scripting basics that we have just learned.  The below comments are specific to me.
 
 ### Overall reaction to Python computing:
-I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment has a faster learning curve and allows the coder to be a minimalist.    
+I find python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the python environment allows for a faster learning curve and minimal lines of code.    
 
 ### Ah-ha moments:
 **Scripting languages use different techniques.  Below are some of my observed Python features (differences):**
@@ -24,17 +24,23 @@ I find python to be an incredibly forgiving scripting language. I have scripted 
 	In many languages, the coder can often take for granted that the comma (,) in numeric values will automatically be displayed.  In Python, an additional formating command format(numeric_value,",d") needs to be included:
 	<br/>Example:
 	<br/>print (format(42500, ",d"))
+	<br/> Screenshot example:
 	<br/>![Formatting a numeric value](FormatNumericWithCommas.PNG)
 - #### "While True" is a nice automatic loop
 	When needing to generate a quick error-handling loop, it is nice and simple to use a "While True" loop and then only exit by performing a "break" statement. 
-- #### Built-In modules are timesavers
-	max(mylist, key=len)
+	<br/>Screenshot example:
+	<br/>![While Loop](While_True_simpleloop.PNG)
+- #### Built-In modules/features are timesavers
+	There is the ability to use the Dictionary datatype to strip out duplicate entries in a string.
+	<br/>Screenshot example:
+	<br/>![Dictionary remove duplicates](Dictionary_abilityTostripDuplicates.PNG)
 - #### Quickly changing lists into strings and vice versa
 	One of the biggest timesavers so far has been learning how to quickly translate a list into a string and vice versa.
 	<br/>Examples:
 	<br/>"".join(x)    turns a list "x" into a string
 	<br/>x.split    turns a string "x" into a list
-
+	<br/>Screenshot example:
+	<br/>![lists to strings](quick_listsFromStrings.PNG)
 ### Useful modules to import into code:
 - #### random
 	For ability to randomly generate 1 or 0, which can be a yes/no 
