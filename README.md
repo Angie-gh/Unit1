@@ -9,7 +9,7 @@
 We have completed half of a semester in Python Programming and are reflecting on the scripting basics that we have just learned.  The below comments are specific to me.
 
 ### Overall reaction to Python computing:
-I find Python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the Python environment allows for a faster learning curve and minimal lines of code.    
+I find Python to be an incredibly forgiving scripting language. I have scripted in other formats such as: batch, bash, lotuscript, and javascript(with ajax), but the Python environment allows for a faster learning curve and requires minimal lines of code.    
 
 ### Ah-ha Moments:
 **Below are some of my observations:**
@@ -46,29 +46,29 @@ I find Python to be an incredibly forgiving scripting language. I have scripted 
 	<br/>![lists to strings](SimpleClearLogic_CreatingEncryptionKey.PNG)
 
 ### Useful modules to import into code:
-- #### random module
+- #### "random" module
 	The "random" module allows the coder to generate random output with a single line of code.  
-	<br/>**Example Code: A game that users the random module:**
+	**Example Code: A game that users the random module:**
 	<br/>[Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
-- #### getpass module
+- #### "getpass" module
 	The "getpass" module is a super valuable module for quickly blocking the display of a user's keystrokes when they are inputting sensitive information like a password.  
-	<br/>**Example Code: A password encryption tool that uses the getpass module:**
+	**Example Code: A password encryption tool that uses the getpass module:**
 	<br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
-- #### pyperclip module
+- #### "pyperclip" module
 	This is one of my favorite modules.  The "pyperclip" module can retrieve input or place output via the user's clipboard.  This provides a level of security by protecting unencrypted text. If a third party is shoulder surfing the user of a python program, the observer won't have privy to whatever sensitive data is being sent or returned to the user.  Ideally, the user would paste their output
 into a protected input text field, so that the text would never be visible, or minimally hidden with asterisks.
-	<br/>**Screenshot example 1 - outputing content from program to clipboard:**
+	**Screenshot example 1 - outputing content from program to clipboard:**
 	<br/>![PyperclipCopy](PyperclipCopyExample.PNG)
 	<br/>**Screenshot example 2 - retrieving input for program from clipbard:**
 	<br/>![PyperclipPaste](PyperclipPasteExample_viaUserInput.PNG)	
 	
-- #### time module
+- #### "time" module
 	The concept of pausing is extremely important, especially when a python program is running from the command line.  The "time" module allows the coder to pause (sleep) for a specified amount of seconds. This allows a program to show the results for a specified amount of time before the screen disappears.  It adds to a level of security because the program doesn't have to wait for the user to provide any input before shutting down.
 	<br/>
 
 ### How my programs differ from other coders:
 **Part A:**
-<br/>I take pride in making sure that my code is commented well.  I think it is disrespectful to not comment code if others are expected to support your original logic. 
+<br/>I take pride in making sure that my code is well-commented.  I think it is disrespectful to not provide sufficient remarks if you are expecting others to support your original logic. 
 <br/>**Example of Commenting:**
 <br/>![Sample comments](GoodCommenting_Example.PNG)
 <br/>**Part B:**
@@ -77,8 +77,8 @@ into a protected input text field, so that the text would never be visible, or m
 <br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
 ### The program that I am the most proud of:
-I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming. Employing well-named functions helps to make repetitive code easier to follow.
-<br/>**Example Code: A encryption and decryption tool that is efficient in its use of logic:**
+I am most proud of solutions that use minimal lines of code to accomplish something that would otherwise be exptremely time-consuming to process manually. Employing well-named functions helps to make repetitive code easier to follow.
+<br/>**Example Code: An encryption and decryption tool that is efficient in its use of logic:**
 <br/>[Encrypting and Decrypting Passwords](https://github.com/Angie-gh/unit1/blob/master/week05_EncryptionProject_Angie_ExtraCredit_Part7_Part8_b.py)
 
 ### Are these programs a reflection of my abilities?:
