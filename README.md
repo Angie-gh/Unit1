@@ -84,6 +84,9 @@ I am most proud of solutions that use minimal lines of code to accomplish someth
 ### Are these programs a reflection of my abilities?:
 I take pride in the programs that I've written thus far.  Based on what we've learned in this first half of the semester, I've implemented solutions using the most efficient Python tools.  Once I learn more techniques, I will be able to provide solutions that are far more complex than what we have currently tackled. :)  
 
+### What can hinder my progress?:
+My learning curve is affected by how well the instructor prepares for their lecture, whether the in-class demonstrations run smoothly, and whether I receive timely responses to email requests for assistance.  Even a reply that "I'm sorry, I do not have time to help you" is better than no reply.
+
 ### Sample Programs
 - [Password Generator](https://github.com/Angie-gh/unit1/blob/master/week03_password_generatorAngie.py)
 - [Rock, Paper Scissors Game](https://github.com/Angie-gh/unit1/blob/master/week03_RockPaperScissors_Angie.py)
