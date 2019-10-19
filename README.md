@@ -72,7 +72,7 @@ into a protected input text field, so that the text would never be visible, or m
 <br/>**Example of Commenting:**
 <br/>![Sample comments](GoodCommenting_Example.PNG)
 <br/>**Part B:**
-<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason to not make the experience user-friendly. 
+<br/>I try to return the user to a menu or a "Continue Y/N" prompt so that the program doesn't shutdown unnecessarily.  No matter the size of the application, there is no reason not to provide a user-friendly experience. 
 <br/>**Example Code: A Password Locker tool that utilizes both a menu and a continue prompt:**
 <br/>[Menu driven Password Locker](https://github.com/Angie-gh/unit1/blob/master/week06_pw_Angie.py)
 
